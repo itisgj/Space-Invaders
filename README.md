@@ -23,7 +23,7 @@ Responsive Controls: Easily maneuver your spaceship using intuitive controls and
 ## Usage
 
 1. Navigate to the project directory.
-2. Run the game using Python: `python space_invaders.py`
+2. Run the game using Python: `python main.py`
 3. Use the arrow keys to move your spaceship horizontally.
 4. Press the spacebar to fire lasers and destroy alien invaders.
 5. Survive as long as you can and achieve the highest score possible!
