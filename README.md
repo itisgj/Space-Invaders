@@ -1,6 +1,6 @@
 # Space-Invaders
 
-Welcome to Space Invaders, a thrilling arcade-style game developed using the Pygame library. Blast your way through waves of alien invaders, controlling a powerful spaceship armed with lasers to defend Earth from imminent destruction!
+Developed with the Pygame library, this exciting arcade-style game is called Space Invaders. Navigate through waves of extraterrestrial invaders while in command of a formidable spacecraft equipped with lasers to protect Earth from impending doom!
 
 ## Features
 
