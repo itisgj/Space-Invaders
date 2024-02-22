@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((800,600))
 
 background = pygame.image.load('finale.jpg')
 
-mixer.music.load('challenger1.wav')
+mixer.music.load('challenger1.wav') # Add your own track here
 mixer.music.play(-1)
 
 pygame.display.set_caption("Space Invaders")
